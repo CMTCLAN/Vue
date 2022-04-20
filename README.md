@@ -11,8 +11,6 @@
     
     
     
- - This Organisation Contains All Of The Relevant Repositories For The CMT.
-
 
     <div align="center">
         
