@@ -1,15 +1,13 @@
 # Vue
 <div align="center">
-    <h3> <strong> Vue Repository 
-      <div align="center">
-    <b>  <a href="https://github.com/CMTFAME">@CMT</a></br><em></em> </b>
+    <h3> <strong> Vue Repository CommunityMatary</h3>
 </div>
+ 
+    <div align="center">
+    <b> Own Repository <a href="https://github.com/CMTFAM">@CMT</a></br><em> Code #CommunityMatary </em> </b>
+</div>
+ 
 
-</div>
-
-<div align="center">
-    <b> Working On <a href="https://github.com/HEXFAM">@HEX</a></br><em> In Love With Ducks </em> </b>
-</div>
 
 
 
