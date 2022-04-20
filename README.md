@@ -12,7 +12,7 @@
     
     
 <div align="center">
-    <b> Working On <a href="https://github.com/CMTCLAN">@HEX</a></br><em> In Love With Ducks </em> </b>
+    <b> GG <a href="https://github.com/CMTCLAN">@HEX</a></br><em> CommunityMatary </em> </b>
 </div>
  
 
