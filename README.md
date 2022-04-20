@@ -11,10 +11,8 @@
  - Mail:CommunityMatary@gmail.com
     
     
-    <div align="center">
-    <b> GitHub <a href="https://github.com/CMTCLAN">@CommunityMatary</a></br><em>  </em> </b>
+<div align="center">
+    <b> Working On <a href="https://github.com/CMTCLAN">@HEX</a></br><em> In Love With Ducks </em> </b>
 </div>
  
-
-
 
