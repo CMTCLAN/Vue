@@ -2,7 +2,7 @@
 <div align="center">
     <h3> <strong> Vue Repository 
       <div align="center">
-    <b>  <a href="https://github.com/CMTFAME">@C,T</a></br><em>  </em> </b>
+    <b>  <a href="https://github.com/CMTFAME">@CMT</a></br><em></em> </b>
 </div>
 
 </div>
