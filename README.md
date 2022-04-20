@@ -11,6 +11,6 @@
     
     
 <div align="center">
-    <b> Owny ="https://github.com/CMTFAM">@CTM</a></br><em> koie </em> </b>
+    <b> Repository owned CommunityMatary="https://github.com/HEXFAM">@HEX</a></br><em> In Love With Ducks </em> </b>
 </div>
  
