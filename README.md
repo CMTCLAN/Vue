@@ -12,7 +12,7 @@
     
     
 <div align="center">
-    <b> GG <a href="https://github.com/CMTCLAN">@HEX</a></br><em> CommunityMatary </em> </b>
+    <b> Bruh Follow CommunityMatary <a href="https://github.com/CMTCLAN">@CMT</a></br><em> CommunityMatary </em> </b>
 </div>
  
 
