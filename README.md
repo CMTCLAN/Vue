@@ -11,6 +11,6 @@
     
     
 <div align="center">
-    <b> Working On <a href="https://github.com/CMTFAM">@CTM</a></br><em> koie </em> </b>
+    <b>Own code vue communitymatary="https://github.com/CMTFAM">@CTM</a></br><em> koie </em> </b>
 </div>
  
