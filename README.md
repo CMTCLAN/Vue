@@ -4,7 +4,7 @@
 </div>
  
     <div align="center">
-    <b> Own Repository <a href="https://github.com/CMTFAM">@CMT</a></br><em> Code CommunityMatary </em> </b>
+    <b> Own Repository <a href="https://github.com/CMTFAM">@CMT</a></br><em> CommunityMatary </em> </b>
 </div>
  
 
