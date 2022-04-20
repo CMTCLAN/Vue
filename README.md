@@ -8,12 +8,13 @@
 
 
 ![image](https://user-images.githubusercontent.com/92306660/164239568-7d4ea661-e90b-43d5-969e-5c2feef4e889.png)
- -Mail:CommunityMatary@gmail.com
+ - Mail:CommunityMatary@gmail.com
     
     
     <div align="center">
-    <b> Own Repository For CommunityMatary <a href="https://github.com/CMTCLAN">@CMT</a></br><em> !!!Wearing Do not copy This code </em> </b>
+    <b> GitHub <a href="https://github.com/CMTCLAN">@CommunityMatary</a></br><em>  </em> </b>
 </div>
+ 
 
 
 
